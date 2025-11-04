@@ -12,6 +12,7 @@ artifacts:
 include:
   - resources/*.yml
   - resources/*/*.yml
+  - sql/**/*.sql 
 
 targets:
   dev:
